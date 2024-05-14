@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Saud Tahir - 0839d06f</title>
+    <title>0839d06f - Saud Tahir - Guessing Game</title>
 </head>
 <body>
     <h1>Welcome to the Guessing Game</h1>
