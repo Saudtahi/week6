@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Saud Tahir f2f863</title>
+    <title>f2f863</title>
 </head>
 <body>
     <h1>Welcome to the Guessing Game</h1>
