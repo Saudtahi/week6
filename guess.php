@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>0839d06f - Guessing Game</title>
+    <title>0839d06f - Guessing Game by Saud</title>
 </head>
 <body>
     <h1>Welcome to the Guessing Game</h1>
 
     <?php
-    $correct_number = 55;
+    $correct_number = 13;
     $guess = isset($_GET['guess']) ? $_GET['guess'] : null;
     $message = '';
 
@@ -28,7 +28,7 @@
 
     <form method="get">
         <p><label for="guess">Enter your guess:</label>
-        <input type="text" name="guess" id="guess" size="60"></p>
+        <input type="text" name="guess" id="guess" size="40"></p>
         <input type="submit">
     </form>
 
