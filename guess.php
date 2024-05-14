@@ -4,7 +4,7 @@
     <title>f2f863 - Saud Tahir - Guessing Game</title>
 </head>
 <body>
-    <h1>Welcome to the Guessing Game</h1>
+    <h1>Welcome to Saud Tahir</h1>
 
     <?php
     $correct_number = 13;
